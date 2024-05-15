@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello! 👋
 
 My name is Dave Koo, a Web Development graduate with a background in Business & Sales. 
 

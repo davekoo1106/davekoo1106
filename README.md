@@ -6,7 +6,7 @@ I'm currently looking for my next opportunity as a Front-End developer to hone m
 
 Previously, I've interned at <B>SAP</B> as a Front-End Developer on the Green Team! 
 
-✉️ Get in touch with me!
+### ✉️ Get in touch with me!
 #### LinkedIn: [Dave Koo](https://www.linkedin.com/in/dave-koo/)
 #### Email: dave.koo@outlook.com
 #### Portfolio: [davekoo.com](davekoo.com) ( Currently undergoing a V2.0 so some things may not work properly! Please be patient!😄 )

@@ -11,7 +11,7 @@ Previously, I've interned at <B>SAP</B> as a Front-End Developer on the Green Te
 #### Email: dave.koo@outlook.com
 #### Portfolio: [davekoo.com](https://davekoo.com/) ( Currently undergoing a V2.0 so some things may not work properly! Please be patient!😄 )
 
-Thanks for visiting! Now, back to fixing those darn bugs..😄
+#### Thanks for visiting! Now, back to fixing those darn bugs..🤔
 
 <!--
 **davekoo1106/davekoo1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

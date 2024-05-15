@@ -1,17 +1,15 @@
 # Hello! 👋
 
-My name is Dave Koo, a Web Development graduate with a background in Business & Sales. 
+### My name is Dave Koo, a Web Development graduate with a background in Business & Sales. 
 
 I'm currently looking for my next opportunity as a Front-End developer to hone my development skills but more importantly learn as much as I can from others! 
 
 Previously, I've interned at <B>SAP</B> as a Front-End Developer on the Green Team! 
 
-My work can be found here: davekoo.com (ps. Currently undergoing a complete redesign and development so some things may not work properly! Please be patient! :) )
-
 ✉️ Get in touch with me!
-LinkedIn: [Dave Koo](https://www.linkedin.com/in/dave-koo/)
-Email: dave.koo@outlook.com
-
+#### LinkedIn: [Dave Koo](https://www.linkedin.com/in/dave-koo/)
+#### Email: dave.koo@outlook.com
+#### Portfolio: [davekoo.com](davekoo.com) ( Currently undergoing a complete redesign and development so some things may not work properly! Please be patient!😄 )
 
 
 <!--

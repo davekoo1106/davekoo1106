@@ -9,7 +9,7 @@ Previously, I've interned at <B>SAP</B> as a Front-End Developer on the Green Te
 ✉️ Get in touch with me!
 #### LinkedIn: [Dave Koo](https://www.linkedin.com/in/dave-koo/)
 #### Email: dave.koo@outlook.com
-#### Portfolio: [davekoo.com](davekoo.com) ( Currently undergoing a complete redesign and development so some things may not work properly! Please be patient!😄 )
+#### Portfolio: [davekoo.com](davekoo.com) ( Currently undergoing a V2 so some things may not work properly! Please be patient!😄 )
 
 
 <!--
